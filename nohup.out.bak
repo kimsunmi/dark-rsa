@@ -1,0 +1,774 @@
+logD - 10 
+ceil loglogd - 3.321928 
+log(d) 10 d-1024 qbit : 2^7045
+KeyGen_Time_      1920087 [us]
+KeyGen_I/O__          457 [us]
+makepoly - d: 1024
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6317920 [us]
+mu: 10 
+Commit_TIME_        41464 [us]
+Commit_I/O__         1066 [us]
+Commit_TIME_new      6304900 [us]
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6288914 [us]
+Commit_TIME_        41812 [us]
+Commit_I/O__         1774 [us]
+
+d_: 1024
+iter 1
+EVAL_PROVER0     15152834 [us]
+EVAL_PROVER_CL       309652 [us]
+EVAL_PROVER_CR       309340 [us]
+EVAL_PROVER_POE     14527405 [us]
+EVAL___I/O__         2136 [us] [  1]
+
+VERIFY_EVAL        13534 [us] [1]
+VERIFY_EVAL_FILEIO          117 [us] [1]
+VERIFY_EVAL_check g^f = c         2624 [us] [1]
+VERIFY_EVAL_update CL^a         2785 [us] [1]
+VERIFY_EVAL_POE         7832 [us] [1]
+VERIFY_I/O__         1374 [us] [1 - 1]
+logD - 11 
+ceil loglogd - 3.459432 
+log(d) 11 d-2048 qbit : 2^7973
+KeyGen_Time_      3388709 [us]
+KeyGen_I/O__          387 [us]
+makepoly - d: 2048
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14325375 [us]
+mu: 11 
+Commit_TIME_        83356 [us]
+Commit_I/O__          650 [us]
+Commit_TIME_new     14312445 [us]
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14263355 [us]
+Commit_TIME_        84575 [us]
+Commit_I/O__         1891 [us]
+
+d_: 2048
+iter 1
+EVAL_PROVER0     34141984 [us]
+EVAL_PROVER_CL       620078 [us]
+EVAL_PROVER_CR       623195 [us]
+EVAL_PROVER_POE     32890823 [us]
+EVAL___I/O__         2541 [us] [  1]
+
+VERIFY_EVAL        16941 [us] [1]
+VERIFY_EVAL_FILEIO          158 [us] [1]
+VERIFY_EVAL_check g^f = c         2821 [us] [1]
+VERIFY_EVAL_update CL^a         3040 [us] [1]
+VERIFY_EVAL_POE        10521 [us] [1]
+VERIFY_I/O__         1631 [us] [1 - 1]
+logD - 12 
+ceil loglogd - 3.584963 
+log(d) 12 d-4096 qbit : 2^8965
+KeyGen_Time_      2298758 [us]
+KeyGen_I/O__          381 [us]
+makepoly - d: 4096
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     31976450 [us]
+mu: 12 
+Commit_TIME_       165941 [us]
+Commit_I/O__          994 [us]
+Commit_TIME_new     31917747 [us]
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     31816840 [us]
+Commit_TIME_       167398 [us]
+Commit_I/O__         2471 [us]
+
+d_: 4096
+iter 1
+EVAL_PROVER0     76612769 [us]
+EVAL_PROVER_CL      1230959 [us]
+EVAL_PROVER_CR      1230950 [us]
+EVAL_PROVER_POE     74141556 [us]
+EVAL___I/O__         3672 [us] [  1]
+
+VERIFY_EVAL        22767 [us] [1]
+VERIFY_EVAL_FILEIO          166 [us] [1]
+VERIFY_EVAL_check g^f = c         3131 [us] [1]
+VERIFY_EVAL_update CL^a         3326 [us] [1]
+VERIFY_EVAL_POE        15700 [us] [1]
+VERIFY_I/O__         2187 [us] [1 - 1]
+logD - 13 
+ceil loglogd - 3.700440 
+log(d) 13 d-8192 qbit : 2^10021
+KeyGen_Time_       548276 [us]
+KeyGen_I/O__          415 [us]
+makepoly - d: 8192
+Start precomputation
+commit- poly.d: 8192
+precom/precompute-8192.txt
+12.500%
+25.000%
+37.500%
+50.000%
+62.500%
+75.000%
+87.500%
+Commit__PRE_     71697312 [us]
+mu: 13 
+Commit_TIME_       334755 [us]
+Commit_I/O__         1422 [us]
+Commit_TIME_new     71442523 [us]
+Start precomputation
+commit- poly.d: 8192
+precom/precompute-8192.txt
+12.500%
+25.000%
+37.500%
+50.000%
+62.500%
+75.000%
+87.500%
+Commit__PRE_     71375015 [us]
+Commit_TIME_       335245 [us]
+Commit_I/O__         3700 [us]
+
+d_: 8192
+iter 1
+EVAL_PROVER0    173308425 [us]
+EVAL_PROVER_CL      2486480 [us]
+EVAL_PROVER_CR      2484762 [us]
+EVAL_PROVER_POE    168323990 [us]
+EVAL___I/O__         6079 [us] [  1]
+
+VERIFY_EVAL        35195 [us] [1]
+VERIFY_EVAL_FILEIO          218 [us] [1]
+VERIFY_EVAL_check g^f = c         3389 [us] [1]
+VERIFY_EVAL_update CL^a         3625 [us] [1]
+VERIFY_EVAL_POE        27601 [us] [1]
+VERIFY_I/O__         3340 [us] [1 - 1]
+logD - 14 
+ceil loglogd - 3.807355 
+log(d) 14 d-16384 qbit : 2^11141
+KeyGen_Time_      1571278 [us]
+KeyGen_I/O__          298 [us]
+makepoly - d: 16384
+Start precomputation
+commit- poly.d: 16384
+precom/precompute-16384.txt
+ 6.250%
+12.500%
+18.750%
+25.000%
+31.250%
+37.500%
+43.750%
+50.000%
+56.250%
+62.500%
+68.750%
+75.000%
+81.250%
+87.500%
+93.750%
+Commit__PRE_    159038926 [us]
+mu: 14 
+Commit_TIME_       664217 [us]
+Commit_I/O__         2474 [us]
+Commit_TIME_new    158231375 [us]
+Start precomputation
+commit- poly.d: 16384
+precom/precompute-16384.txt
+ 6.250%
+12.500%
+18.750%
+25.000%
+31.250%
+37.500%
+43.750%
+50.000%
+56.250%
+62.500%
+68.750%
+75.000%
+81.250%
+87.500%
+93.750%
+Commit__PRE_    157864801 [us]
+Commit_TIME_       671145 [us]
+Commit_I/O__         5933 [us]
+
+d_: 16384
+iter 1
+EVAL_PROVER0    390168343 [us]
+EVAL_PROVER_CL      4988912 [us]
+EVAL_PROVER_CR      4981681 [us]
+EVAL_PROVER_POE    380178736 [us]
+EVAL___I/O__        10628 [us] [  1]
+
+
+
+VERIFY_EVAL        59894 [us] [1]
+VERIFY_EVAL_FILEIO          228 [us] [1]
+VERIFY_EVAL_check g^f = c         3558 [us] [1]
+VERIFY_EVAL_update CL^a         3885 [us] [1]
+VERIFY_EVAL_POE        51744 [us] [1]
+VERIFY_I/O__         5632 [us] [1 - 1]
+logD - 10 
+ceil loglogd - 3.321928 
+log(d) 10 d-1024 qbit : 2^7045
+KeyGen_Time_      1479156 [us]
+KeyGen_I/O__          226 [us]
+makepoly - d: 1024
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6368266 [us]
+mu: 10 
+Commit_TIME_        41948 [us]
+Commit_I/O__          767 [us]
+Commit_TIME_new      6345875 [us]
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6288529 [us]
+Commit_TIME_        41819 [us]
+Commit_I/O__         1843 [us]
+
+d_: 1024
+iter 1
+EVAL_PROVER0     15179075 [us]
+EVAL_PROVER_CL       310101 [us]
+EVAL_PROVER_CR       309766 [us]
+EVAL_PROVER_POE     14553002 [us]
+EVAL___I/O__         2197 [us] [  1]
+
+POE_pf^l time: 294 deg: 512
+POE_g^r time: 292 deg: 512
+POE_pf^l time: 278 deg: 256
+POE_g^r time: 276 deg: 256
+POE_pf^l time: 279 deg: 128
+POE_g^r time: 275 deg: 128
+POE_pf^l time: 279 deg: 64
+POE_g^r time: 273 deg: 64
+POE_pf^l time: 285 deg: 32
+POE_g^r time: 277 deg: 32
+POE_pf^l time: 272 deg: 16
+POE_g^r time: 275 deg: 16
+POE_pf^l time: 295 deg: 8
+POE_g^r time: 285 deg: 8
+POE_pf^l time: 284 deg: 4
+POE_g^r time: 273 deg: 4
+POE_pf^l time: 393 deg: 2
+POE_g^r time: 385 deg: 2
+POE_pf^l time: 301 deg: 1
+POE_g^r time: 273 deg: 1
+VERIFY_EVAL        13604 [us] [1]
+VERIFY_EVAL_FILEIO          123 [us] [1]
+VERIFY_EVAL_check g^f = c         2588 [us] [1]
+VERIFY_EVAL_update CL^a         2789 [us] [1]
+VERIFY_EVAL_POE         7912 [us] [1]
+VERIFY_I/O__         1356 [us] [1 - 1]
+logD - 11 
+ceil loglogd - 3.459432 
+log(d) 11 d-2048 qbit : 2^7973
+KeyGen_Time_      4758683 [us]
+KeyGen_I/O__          257 [us]
+makepoly - d: 2048
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14288834 [us]
+mu: 11 
+Commit_TIME_        83081 [us]
+Commit_I/O__         1619 [us]
+Commit_TIME_new     14296053 [us]
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14197382 [us]
+Commit_TIME_        83635 [us]
+Commit_I/O__         2160 [us]
+
+d_: 2048
+iter 1
+EVAL_PROVER0     34116891 [us]
+EVAL_PROVER_CL       619247 [us]
+EVAL_PROVER_CR       619311 [us]
+EVAL_PROVER_POE     32870805 [us]
+EVAL___I/O__         2797 [us] [  1]
+
+POE_pf^l time: 279 deg: 1024
+POE_g^r time: 280 deg: 1024
+POE_pf^l time: 279 deg: 512
+POE_g^r time: 292 deg: 512
+POE_pf^l time: 279 deg: 256
+POE_g^r time: 274 deg: 256
+POE_pf^l time: 276 deg: 128
+POE_g^r time: 279 deg: 128
+POE_pf^l time: 276 deg: 64
+POE_g^r time: 279 deg: 64
+POE_pf^l time: 279 deg: 32
+POE_g^r time: 275 deg: 32
+POE_pf^l time: 273 deg: 16
+POE_g^r time: 282 deg: 16
+POE_pf^l time: 276 deg: 8
+POE_g^r time: 274 deg: 8
+POE_pf^l time: 389 deg: 4
+POE_g^r time: 381 deg: 4
+POE_pf^l time: 281 deg: 2
+POE_g^r time: 285 deg: 2
+POE_pf^l time: 279 deg: 1
+POE_g^r time: 275 deg: 1
+VERIFY_EVAL        16896 [us] [1]
+VERIFY_EVAL_FILEIO          161 [us] [1]
+VERIFY_EVAL_check g^f = c         2833 [us] [1]
+VERIFY_EVAL_update CL^a         3041 [us] [1]
+VERIFY_EVAL_POE        10483 [us] [1]
+VERIFY_I/O__         1619 [us] [1 - 1]
+logD - 12 
+ceil loglogd - 3.584963 
+log(d) 12 d-4096 qbit : 2^8965
+KeyGen_Time_      2210727 [us]
+KeyGen_I/O__          236 [us]
+makepoly - d: 4096
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     32071096 [us]
+mu: 12 
+Commit_TIME_       166391 [us]
+Commit_I/O__         1150 [us]
+Commit_TIME_new     32075380 [us]
+
+
+
+logD - 10 
+ceil loglogd - 3.321928 
+log(d) 10 d-1024 qbit : 2^7045
+KeyGen_Time_       818259 [us]
+KeyGen_I/O__          235 [us]
+makepoly - d: 1024
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6330185 [us]
+mu: 10 
+Commit_TIME_        41588 [us]
+Commit_I/O__          937 [us]
+Commit_TIME_new      6308339 [us]
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6278887 [us]
+Commit_TIME_        41920 [us]
+Commit_I/O__         1741 [us]
+
+d_: 1024
+iter 1
+EVAL_PROVER0     15083300 [us]
+EVAL_PROVER_CL       306079 [us]
+EVAL_PROVER_CR       305958 [us]
+EVAL_PROVER_POE     14464805 [us]
+EVAL___I/O__         2099 [us] [  1]
+
+POE_init time: 850 deg: 512
+POE_pf^l time: 279 deg: 512
+POE_g^r time: 274 deg: 512
+POE_init time: 429 deg: 256
+POE_pf^l time: 279 deg: 256
+POE_g^r time: 277 deg: 256
+POE_init time: 232 deg: 128
+POE_pf^l time: 276 deg: 128
+POE_g^r time: 278 deg: 128
+POE_init time: 140 deg: 64
+POE_pf^l time: 279 deg: 64
+POE_g^r time: 270 deg: 64
+POE_init time: 98 deg: 32
+POE_pf^l time: 279 deg: 32
+POE_g^r time: 278 deg: 32
+POE_init time: 108 deg: 16
+POE_pf^l time: 279 deg: 16
+POE_g^r time: 277 deg: 16
+POE_init time: 12 deg: 8
+POE_pf^l time: 282 deg: 8
+POE_g^r time: 279 deg: 8
+POE_init time: 100 deg: 4
+POE_pf^l time: 274 deg: 4
+POE_g^r time: 271 deg: 4
+POE_init time: 3 deg: 2
+POE_pf^l time: 391 deg: 2
+POE_g^r time: 390 deg: 2
+POE_init time: 2 deg: 1
+POE_pf^l time: 282 deg: 1
+POE_g^r time: 279 deg: 1
+VERIFY_EVAL        13433 [us] [1]
+VERIFY_EVAL_FILEIO          117 [us] [1]
+VERIFY_EVAL_check g^f = c         2573 [us] [1]
+VERIFY_EVAL_update CL^a         2779 [us] [1]
+VERIFY_EVAL_POE         7768 [us] [1]
+VERIFY_I/O__         1377 [us] [1 - 1]
+logD - 11 
+ceil loglogd - 3.459432 
+log(d) 11 d-2048 qbit : 2^7973
+KeyGen_Time_       741578 [us]
+KeyGen_I/O__          234 [us]
+makepoly - d: 2048
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14275705 [us]
+mu: 11 
+Commit_TIME_        82981 [us]
+Commit_I/O__          601 [us]
+Commit_TIME_new     14301229 [us]
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14253105 [us]
+Commit_TIME_        83769 [us]
+Commit_I/O__         1948 [us]
+
+d_: 2048
+iter 1
+EVAL_PROVER0     34245459 [us]
+EVAL_PROVER_CL       619628 [us]
+EVAL_PROVER_CR       620579 [us]
+EVAL_PROVER_POE     32997290 [us]
+EVAL___I/O__         2592 [us] [  1]
+
+POE_init time: 1961 deg: 1024
+POE_pf^l time: 284 deg: 1024
+POE_g^r time: 279 deg: 1024
+POE_init time: 968 deg: 512
+POE_pf^l time: 279 deg: 512
+POE_g^r time: 308 deg: 512
+POE_init time: 566 deg: 256
+POE_pf^l time: 304 deg: 256
+POE_g^r time: 284 deg: 256
+POE_init time: 254 deg: 128
+POE_pf^l time: 277 deg: 128
+POE_g^r time: 281 deg: 128
+POE_init time: 151 deg: 64
+POE_pf^l time: 278 deg: 64
+POE_g^r time: 276 deg: 64
+POE_init time: 134 deg: 32
+POE_pf^l time: 276 deg: 32
+POE_g^r time: 273 deg: 32
+POE_init time: 123 deg: 16
+POE_pf^l time: 276 deg: 16
+POE_g^r time: 276 deg: 16
+POE_init time: 39 deg: 8
+POE_pf^l time: 302 deg: 8
+POE_g^r time: 275 deg: 8
+POE_init time: 7 deg: 4
+POE_pf^l time: 385 deg: 4
+POE_g^r time: 382 deg: 4
+POE_init time: 4 deg: 2
+POE_pf^l time: 277 deg: 2
+POE_g^r time: 271 deg: 2
+POE_init time: 2 deg: 1
+POE_pf^l time: 274 deg: 1
+POE_g^r time: 276 deg: 1
+VERIFY_EVAL        17094 [us] [1]
+VERIFY_EVAL_FILEIO          161 [us] [1]
+VERIFY_EVAL_check g^f = c         2830 [us] [1]
+VERIFY_EVAL_update CL^a         3050 [us] [1]
+VERIFY_EVAL_POE        10638 [us] [1]
+VERIFY_I/O__         1610 [us] [1 - 1]
+logD - 12 
+ceil loglogd - 3.584963 
+log(d) 12 d-4096 qbit : 2^8965
+KeyGen_Time_      2142584 [us]
+KeyGen_I/O__          249 [us]
+makepoly - d: 4096
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     32133831 [us]
+mu: 12 
+Commit_TIME_       167448 [us]
+Commit_I/O__          961 [us]
+Commit_TIME_new     32106796 [us]
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     32056670 [us]
+Commit_TIME_       167795 [us]
+Commit_I/O__         2617 [us]
+
+d_: 4096
+iter 1
+EVAL_PROVER0     77073259 [us]
+EVAL_PROVER_CL      1245448 [us]
+EVAL_PROVER_CR      1244918 [us]
+EVAL_PROVER_POE     74573637 [us]
+EVAL___I/O__         3817 [us] [  1]
+
+POE_init time: 4330 deg: 2048
+POE_pf^l time: 282 deg: 2048
+POE_g^r time: 272 deg: 2048
+POE_init time: 2213 deg: 1024
+POE_pf^l time: 275 deg: 1024
+POE_g^r time: 280 deg: 1024
+POE_init time: 1094 deg: 512
+POE_pf^l time: 278 deg: 512
+POE_g^r time: 278 deg: 512
+POE_init time: 549 deg: 256
+POE_pf^l time: 278 deg: 256
+POE_g^r time: 279 deg: 256
+POE_init time: 275 deg: 128
+POE_pf^l time: 279 deg: 128
+POE_g^r time: 278 deg: 128
+POE_init time: 135 deg: 64
+POE_pf^l time: 278 deg: 64
+POE_g^r time: 277 deg: 64
+POE_init time: 73 deg: 32
+POE_pf^l time: 276 deg: 32
+POE_g^r time: 281 deg: 32
+POE_init time: 30 deg: 16
+POE_pf^l time: 273 deg: 16
+POE_g^r time: 297 deg: 16
+POE_init time: 15 deg: 8
+POE_pf^l time: 387 deg: 8
+POE_g^r time: 407 deg: 8
+POE_init time: 8 deg: 4
+POE_pf^l time: 281 deg: 4
+POE_g^r time: 277 deg: 4
+POE_init time: 4 deg: 2
+POE_pf^l time: 275 deg: 2
+POE_g^r time: 276 deg: 2
+POE_init time: 3 deg: 1
+POE_pf^l time: 278 deg: 1
+POE_g^r time: 280 deg: 1
+VERIFY_EVAL        22666 [us] [1]
+VERIFY_EVAL_FILEIO          155 [us] [1]
+VERIFY_EVAL_check g^f = c         3075 [us] [1]
+VERIFY_EVAL_update CL^a         3364 [us] [1]
+VERIFY_EVAL_POE        15681 [us] [1]
+VERIFY_I/O__         2123 [us] [1 - 1]
+logD - 13 
+ceil loglogd - 3.700440 
+log(d) 13 d-8192 qbit : 2^10021
+KeyGen_Time_      3134807 [us]
+KeyGen_I/O__          463 [us]
+makepoly - d: 8192
+Start precomputation
+commit- poly.d: 8192
+precom/precompute-8192.txt
+12.500%
+25.000%
+37.500%
+50.000%
+62.500%
+75.000%
+87.500%
+Commit__PRE_     71571542 [us]
+mu: 13 
+Commit_TIME_       331917 [us]
+Commit_I/O__         1636 [us]
+Commit_TIME_new     71277206 [us]
+Start precomputation
+commit- poly.d: 8192
+precom/precompute-8192.txt
+12.500%
+25.000%
+37.500%
+50.000%
+62.500%
+75.000%
+87.500%
+Commit__PRE_     71096653 [us]
+Commit_TIME_       334675 [us]
+Commit_I/O__         3619 [us]
+
+d_: 8192
+iter 1
+EVAL_PROVER0    173589279 [us]
+EVAL_PROVER_CL      2487588 [us]
+EVAL_PROVER_CR      2489508 [us]
+EVAL_PROVER_POE    168599395 [us]
+EVAL___I/O__         6068 [us] [  1]
+
+POE_init time: 9619 deg: 4096
+POE_pf^l time: 290 deg: 4096
+POE_g^r time: 276 deg: 4096
+POE_init time: 4953 deg: 2048
+POE_pf^l time: 274 deg: 2048
+POE_g^r time: 272 deg: 2048
+POE_init time: 2421 deg: 1024
+POE_pf^l time: 274 deg: 1024
+POE_g^r time: 273 deg: 1024
+POE_init time: 1237 deg: 512
+POE_pf^l time: 278 deg: 512
+POE_g^r time: 280 deg: 512
+POE_init time: 603 deg: 256
+POE_pf^l time: 342 deg: 256
+POE_g^r time: 288 deg: 256
+POE_init time: 320 deg: 128
+POE_pf^l time: 276 deg: 128
+POE_g^r time: 279 deg: 128
+POE_init time: 191 deg: 64
+POE_pf^l time: 273 deg: 64
+POE_g^r time: 274 deg: 64
+POE_init time: 112 deg: 32
+POE_pf^l time: 278 deg: 32
+POE_g^r time: 278 deg: 32
+POE_init time: 122 deg: 16
+POE_pf^l time: 388 deg: 16
+POE_g^r time: 384 deg: 16
+POE_init time: 106 deg: 8
+POE_pf^l time: 276 deg: 8
+POE_g^r time: 267 deg: 8
+POE_init time: 92 deg: 4
+POE_pf^l time: 281 deg: 4
+POE_g^r time: 271 deg: 4
+POE_init time: 5 deg: 2
+POE_pf^l time: 281 deg: 2
+POE_g^r time: 277 deg: 2
+POE_init time: 6 deg: 1
+POE_pf^l time: 276 deg: 1
+POE_g^r time: 278 deg: 1
+VERIFY_EVAL        34829 [us] [1]
+VERIFY_EVAL_FILEIO          195 [us] [1]
+VERIFY_EVAL_check g^f = c         3329 [us] [1]
+VERIFY_EVAL_update CL^a         3594 [us] [1]
+VERIFY_EVAL_POE        27306 [us] [1]
+VERIFY_I/O__         3303 [us] [1 - 1]
+logD - 14 
+ceil loglogd - 3.807355 
+log(d) 14 d-16384 qbit : 2^11141
+KeyGen_Time_      2390789 [us]
+KeyGen_I/O__          327 [us]
+makepoly - d: 16384
+Start precomputation
+commit- poly.d: 16384
+precom/precompute-16384.txt
+ 6.250%
+12.500%
+18.750%
+25.000%
+31.250%
+37.500%
+43.750%
+50.000%
+56.250%
+62.500%
+68.750%
+75.000%
+81.250%
+87.500%
+93.750%
+Commit__PRE_    159012444 [us]
+mu: 14 
+Commit_TIME_       664586 [us]
+Commit_I/O__         2508 [us]
+Commit_TIME_new    158262669 [us]
+Start precomputation
+commit- poly.d: 16384
+precom/precompute-16384.txt
+ 6.250%
+12.500%
+18.750%
+25.000%
+31.250%
+37.500%
+43.750%
+50.000%
+56.250%
+62.500%
+68.750%
+75.000%
+81.250%
+87.500%
+93.750%
+Commit__PRE_    157982419 [us]
+Commit_TIME_       670388 [us]
+Commit_I/O__         6186 [us]
+
+d_: 16384
+iter 1
+EVAL_PROVER0    388676255 [us]
+EVAL_PROVER_CL      4983659 [us]
+EVAL_PROVER_CR      4982637 [us]
+EVAL_PROVER_POE    378691236 [us]
+EVAL___I/O__        10725 [us] [  1]
+
+POE_init time: 21748 deg: 8192
+POE_pf^l time: 288 deg: 8192
+POE_g^r time: 285 deg: 8192
+POE_init time: 10987 deg: 4096
+POE_pf^l time: 287 deg: 4096
+POE_g^r time: 282 deg: 4096
+POE_init time: 5408 deg: 2048
+POE_pf^l time: 279 deg: 2048
+POE_g^r time: 280 deg: 2048
+POE_init time: 2750 deg: 1024
+POE_pf^l time: 275 deg: 1024
+POE_g^r time: 272 deg: 1024
+POE_init time: 1397 deg: 512
+POE_pf^l time: 279 deg: 512
+POE_g^r time: 281 deg: 512
+POE_init time: 694 deg: 256
+POE_pf^l time: 275 deg: 256
+POE_g^r time: 278 deg: 256
+POE_init time: 361 deg: 128
+POE_pf^l time: 275 deg: 128
+POE_g^r time: 276 deg: 128
+POE_init time: 189 deg: 64
+POE_pf^l time: 277 deg: 64
+POE_g^r time: 280 deg: 64
+POE_init time: 128 deg: 32
+POE_pf^l time: 386 deg: 32
+POE_g^r time: 386 deg: 32
+POE_init time: 113 deg: 16
+POE_pf^l time: 277 deg: 16
+POE_g^r time: 278 deg: 16
+POE_init time: 105 deg: 8
+POE_pf^l time: 282 deg: 8
+POE_g^r time: 277 deg: 8
+POE_init time: 102 deg: 4
+POE_pf^l time: 276 deg: 4
+POE_g^r time: 278 deg: 4
+POE_init time: 5 deg: 2
+POE_pf^l time: 279 deg: 2
+POE_g^r time: 266 deg: 2
+POE_init time: 2 deg: 1
+POE_pf^l time: 277 deg: 1
+POE_g^r time: 274 deg: 1
+VERIFY_EVAL        60161 [us] [1]
+VERIFY_EVAL_FILEIO          197 [us] [1]
+VERIFY_EVAL_check g^f = c         3573 [us] [1]
+VERIFY_EVAL_update CL^a         3867 [us] [1]
+VERIFY_EVAL_POE        52030 [us] [1]
+VERIFY_I/O__         5669 [us] [1 - 1]
+
+
+
+===============================

@@ -1,0 +1,140 @@
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2047 
+-------proof Size(final round)----------
+yL: 130 
+yR: 130 
+CL: 2050 
+CR: 2050 
+Q: 2051 
+f_hat: 8 
+mu: 10 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 64118 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 42318 
+-------------------------------------
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2048 
+-------proof Size(final round)----------
+yL: 131 
+yR: 131 
+CL: 2051 
+CR: 2051 
+Q: 2051 
+f_hat: 8 
+mu: 11 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 70573 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 46571 
+-------------------------------------
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2047 
+-------proof Size(final round)----------
+yL: 131 
+yR: 131 
+CL: 2051 
+CR: 2050 
+Q: 2051 
+f_hat: 8 
+mu: 12 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 76976 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 50792 
+-------------------------------------
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2044 
+-------proof Size(final round)----------
+yL: 131 
+yR: 131 
+CL: 2051 
+CR: 2050 
+Q: 2050 
+f_hat: 8 
+mu: 13 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 83377 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 55011 
+-------------------------------------
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2048 
+-------proof Size(final round)----------
+yL: 131 
+yR: 131 
+CL: 2051 
+CR: 2051 
+Q: 2051 
+f_hat: 8 
+mu: 14 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 89818 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 59270 
+-------------------------------------
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2047 
+-------proof Size(final round)----------
+yL: 132 
+yR: 132 
+CL: 2051 
+CR: 2051 
+Q: 2051 
+f_hat: 8 
+mu: 15 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 96263 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 63518 
+-------------------------------------
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2047 
+-------proof Size(final round)----------
+yL: 131 
+yR: 131 
+CL: 2051 
+CR: 2051 
+Q: 2051 
+f_hat: 8 
+mu: 16 
+proof size n*(|yL|+|yR|+|CL|+|CR|+|Q|+f_hat[-1]): 102648 
+proof size(comm opt) n*(|yR|+|CR|+|Q|)+f_hat[-1]: 67736 
+-------------------------------------
+-------public parameter----------
+N: 512 
+g: 256 
+p: 128 
+|N|+|g|+|p|: 896 
+-------commitment size----------
+C: 511 
+-------public parameter----------
+N: 2048 
+g: 1024 
+p: 128 
+|N|+|g|+|p|: 3200 
+-------commitment size----------
+C: 2046 

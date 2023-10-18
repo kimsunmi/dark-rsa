@@ -1,0 +1,542 @@
+logD - 10 
+ceil loglogd - 3.321928 
+log(d) 10 d-1024 qbit : 2^7045
+KeyGen_Time_      1117067 [us]
+KeyGen_I/O__          229 [us]
+makepoly - d: 1024
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6321506 [us]
+mu: 10 
+Commit_TIME_        41489 [us]
+Commit_I/O__         1125 [us]
+Commit_TIME_new      6306851 [us]
+Start precomputation
+commit- poly.d: 1024
+precom/precompute-1024.txt
+Commit__PRE_      6274411 [us]
+Commit_TIME_        41911 [us]
+Commit_I/O__         1737 [us]
+
+d_: 1024
+iter 1
+EVAL_PROVER0     15084925 [us]
+EVAL_PROVER_CL       306686 [us]
+EVAL_PROVER_CR       306347 [us]
+EVAL_PROVER_POE     14465147 [us]
+EVAL___I/O__         2098 [us] [  1]
+
+VERIFY_EVAL        13441 [us] [1]
+VERIFY_EVAL_FILEIO          126 [us] [1]
+VERIFY_EVAL_check g^f = c         2582 [us] [1]
+VERIFY_EVAL_update CL^a         2781 [us] [1]
+VERIFY_EVAL_POE         7761 [us] [1]
+VERIFY_EVAL_POE - remainder
+  843    425    230    145    103    115     12    101      5      1  subtotal: 1980
+VERIFY_EVAL_POE - pf^l
+  284    278    273    277    275    280    278    389    278    276  subtotal: 2888
+VERIFY_EVAL_POE - g^r
+  277    276    280    279    273    279    272    379    281    275  subtotal: 2871
+VERIFY_EVAL_POE - round total
+1406  981  785  703  653  677  564  872  566  554  
+VERIFY_I/O__         1412 [us] [1 - 1]
+logD - 11 
+ceil loglogd - 3.459432 
+log(d) 11 d-2048 qbit : 2^7973
+KeyGen_Time_       340250 [us]
+KeyGen_I/O__          473 [us]
+makepoly - d: 2048
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14254115 [us]
+mu: 11 
+Commit_TIME_        83012 [us]
+Commit_I/O__          684 [us]
+Commit_TIME_new     14240726 [us]
+Start precomputation
+commit- poly.d: 2048
+precom/precompute-2048.txt
+50.000%
+Commit__PRE_     14186140 [us]
+Commit_TIME_        83887 [us]
+Commit_I/O__         1930 [us]
+
+d_: 2048
+iter 1
+EVAL_PROVER0     34130566 [us]
+EVAL_PROVER_CL       619992 [us]
+EVAL_PROVER_CR       619592 [us]
+EVAL_PROVER_POE     32883062 [us]
+EVAL___I/O__         2625 [us] [  1]
+
+VERIFY_EVAL        16825 [us] [1]
+VERIFY_EVAL_FILEIO          128 [us] [1]
+VERIFY_EVAL_check g^f = c         2869 [us] [1]
+VERIFY_EVAL_update CL^a         3071 [us] [1]
+VERIFY_EVAL_POE        10387 [us] [1]
+VERIFY_EVAL_POE - remainder
+ 1932    967    488    251    150    105    113     14      6      4      3  subtotal: 4033
+VERIFY_EVAL_POE - pf^l
+  277    271    280    280    279    276    277    383    281    277    282  subtotal: 3163
+VERIFY_EVAL_POE - g^r
+  277    273    282    281    277    278    278    382    281    277    280  subtotal: 3166
+VERIFY_EVAL_POE - round total
+2489  1513  1052  814  709  661  670  782  570  560  567  
+VERIFY_I/O__         1555 [us] [1 - 1]
+logD - 12 
+ceil loglogd - 3.584963 
+log(d) 12 d-4096 qbit : 2^8965
+KeyGen_Time_      1130368 [us]
+KeyGen_I/O__          224 [us]
+makepoly - d: 4096
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     31997136 [us]
+mu: 12 
+Commit_TIME_       166071 [us]
+Commit_I/O__          959 [us]
+Commit_TIME_new     31925915 [us]
+Start precomputation
+commit- poly.d: 4096
+precom/precompute-4096.txt
+25.000%
+50.000%
+75.000%
+Commit__PRE_     31836110 [us]
+Commit_TIME_       167455 [us]
+Commit_I/O__         2487 [us]
+
+d_: 4096
+iter 1
+EVAL_PROVER0     76606350 [us]
+EVAL_PROVER_CL      1243704 [us]
+EVAL_PROVER_CR      1243492 [us]
+EVAL_PROVER_POE     74109684 [us]
+EVAL___I/O__         3678 [us] [  1]
+
+VERIFY_EVAL        22789 [us] [1]
+VERIFY_EVAL_FILEIO          152 [us] [1]
+VERIFY_EVAL_check g^f = c         3083 [us] [1]
+VERIFY_EVAL_update CL^a         3331 [us] [1]
+VERIFY_EVAL_POE        15829 [us] [1]
+VERIFY_EVAL_POE - remainder
+ 4433   2262   1133    549    286    138     68     30     15      8      4      2  subtotal: 8928
+VERIFY_EVAL_POE - pf^l
+  282    281    278    274    278    276    282    386    272    280    276    279  subtotal: 3444
+VERIFY_EVAL_POE - g^r
+  274    277    274    282    278    279    277    384    273    275    278    278  subtotal: 3429
+VERIFY_EVAL_POE - round total
+4991  2822  1687  1107  845  696  630  802  562  566  560  561  
+VERIFY_I/O__         2237 [us] [1 - 1]
+logD - 13 
+ceil loglogd - 3.700440 
+log(d) 13 d-8192 qbit : 2^10021
+KeyGen_Time_      1783395 [us]
+KeyGen_I/O__          456 [us]
+makepoly - d: 8192
+Start precomputation
+commit- poly.d: 8192
+precom/precompute-8192.txt
+12.500%
+25.000%
+37.500%
+50.000%
+62.500%
+75.000%
+87.500%
+Commit__PRE_     71366623 [us]
+mu: 13 
+Commit_TIME_       332314 [us]
+Commit_I/O__         1459 [us]
+Commit_TIME_new     71168711 [us]
+Start precomputation
+commit- poly.d: 8192
+precom/precompute-8192.txt
+12.500%
+25.000%
+37.500%
+50.000%
+62.500%
+75.000%
+87.500%
+Commit__PRE_     71016121 [us]
+Commit_TIME_       334877 [us]
+Commit_I/O__         3719 [us]
+
+d_: 8192
+iter 1
+EVAL_PROVER0    173096447 [us]
+EVAL_PROVER_CL      2472880 [us]
+EVAL_PROVER_CR      2472386 [us]
+EVAL_PROVER_POE    168138593 [us]
+EVAL___I/O__         6156 [us] [  1]
+
+VERIFY_EVAL        34808 [us] [1]
+VERIFY_EVAL_FILEIO          170 [us] [1]
+VERIFY_EVAL_check g^f = c         3330 [us] [1]
+VERIFY_EVAL_update CL^a         3613 [us] [1]
+VERIFY_EVAL_POE        27286 [us] [1]
+VERIFY_EVAL_POE - remainder
+ 9678   4936   2432   1238    613    325    180    111     96    110     98      5      2  subtotal: 19824
+VERIFY_EVAL_POE - pf^l
+  279    280    283    279    276    285    279    383    274    276    280    274    282  subtotal: 3730
+VERIFY_EVAL_POE - g^r
+  273    282    283    277    274    286    275    381    280    276    274    266    277  subtotal: 3704
+VERIFY_EVAL_POE - round total
+10233  5501  3000  1796  1165  898  736  877  652  664  654  547  563  
+VERIFY_I/O__         3294 [us] [1 - 1]
+
+logD - 14 
+ceil loglogd - 3.807355 
+log(d) 14 d-16384 qbit : 2^11141
+KeyGen_Time_      1356799 [us]
+KeyGen_I/O__          235 [us]
+makepoly - d: 16384
+Start precomputation
+commit- poly.d: 16384
+precom/precompute-16384.txt
+ 6.250%
+12.500%
+18.750%
+25.000%
+31.250%
+37.500%
+43.750%
+50.000%
+56.250%
+62.500%
+68.750%
+75.000%
+81.250%
+87.500%
+93.750%
+Commit__PRE_    158549717 [us]
+mu: 14 
+Commit_TIME_       662750 [us]
+Commit_I/O__         2366 [us]
+Commit_TIME_new    158025945 [us]
+Start precomputation
+commit- poly.d: 16384
+precom/precompute-16384.txt
+ 6.250%
+12.500%
+18.750%
+25.000%
+31.250%
+37.500%
+43.750%
+50.000%
+56.250%
+62.500%
+68.750%
+75.000%
+81.250%
+87.500%
+93.750%
+Commit__PRE_    157522845 [us]
+Commit_TIME_       668501 [us]
+Commit_I/O__         6153 [us]
+
+d_: 16384
+iter 1
+EVAL_PROVER0    387606778 [us]
+EVAL_PROVER_CL      4968367 [us]
+EVAL_PROVER_CR      4966675 [us]
+EVAL_PROVER_POE    377652383 [us]
+EVAL___I/O__        10816 [us] [  1]
+
+VERIFY_EVAL        59318 [us] [1]
+VERIFY_EVAL_FILEIO          175 [us] [1]
+VERIFY_EVAL_check g^f = c         3575 [us] [1]
+VERIFY_EVAL_update CL^a         3877 [us] [1]
+VERIFY_EVAL_POE        51225 [us] [1]
+VERIFY_EVAL_POE - remainder
+21405  10709   5387   2702   1381    670    347    188    121     95    103     91      5      2  subtotal: 43206
+VERIFY_EVAL_POE - pf^l
+  285    280    275    276    272    276    276    387    272    280    272    274    278    276  subtotal: 3979
+VERIFY_EVAL_POE - g^r
+  274    290    276    276    282    276    275    384    273    280    280    278    275    283  subtotal: 4002
+VERIFY_EVAL_POE - round total
+21968  11282  5941  3256  1938  1224  901  961  668  657  657  646  563  563  
+VERIFY_I/O__         5593 [us] [1 - 1]
+logD - 15 
+ceil loglogd - 3.906891 
+log(d) 15 d-32768 qbit : 2^12325
+KeyGen_Time_      2271524 [us]
+KeyGen_I/O__          394 [us]
+makepoly - d: 32768
+Start precomputation
+commit- poly.d: 32768
+precom/precompute-32768.txt
+ 3.125%
+ 6.250%
+ 9.375%
+12.500%
+15.625%
+18.750%
+21.875%
+25.000%
+28.125%
+31.250%
+34.375%
+37.500%
+40.625%
+43.750%
+46.875%
+50.000%
+53.125%
+56.250%
+59.375%
+62.500%
+65.625%
+68.750%
+71.875%
+75.000%
+78.125%
+81.250%
+84.375%
+87.500%
+90.625%
+93.750%
+96.875%
+Commit__PRE_    354850191 [us]
+mu: 15 
+Commit_TIME_      1327568 [us]
+Commit_I/O__         4393 [us]
+Commit_TIME_new    353648958 [us]
+Start precomputation
+commit- poly.d: 32768
+precom/precompute-32768.txt
+ 3.125%
+ 6.250%
+ 9.375%
+12.500%
+15.625%
+18.750%
+21.875%
+25.000%
+28.125%
+31.250%
+34.375%
+37.500%
+40.625%
+43.750%
+46.875%
+50.000%
+53.125%
+56.250%
+59.375%
+62.500%
+65.625%
+68.750%
+71.875%
+75.000%
+78.125%
+81.250%
+84.375%
+87.500%
+90.625%
+93.750%
+96.875%
+Commit__PRE_    352686671 [us]
+Commit_TIME_      1337134 [us]
+Commit_I/O__        10452 [us]
+
+d_: 32768
+iter 1
+EVAL_PROVER0    906726460 [us]
+EVAL_PROVER_CL      9960584 [us]
+EVAL_PROVER_CR      9960449 [us]
+EVAL_PROVER_POE    886775089 [us]
+EVAL___I/O__        19519 [us] [  1]
+
+VERIFY_EVAL       113097 [us] [1]
+VERIFY_EVAL_FILEIO          210 [us] [1]
+VERIFY_EVAL_check g^f = c         3825 [us] [1]
+VERIFY_EVAL_update CL^a         4175 [us] [1]
+VERIFY_EVAL_POE       104296 [us] [1]
+VERIFY_EVAL_POE - remainder
+47773  23520  12023   6042   3019   1504    760    386    210    137     93    105    112      6      3  subtotal: 95693
+VERIFY_EVAL_POE - pf^l
+  287    285    283    283    279    275    276    385    271    283    279    276    281    276    279  subtotal: 4298
+VERIFY_EVAL_POE - g^r
+  279    287    277    280    279    278    274    381    275    275    276    271    282    278    272  subtotal: 4264
+VERIFY_EVAL_POE - round total
+48342  24095  12586  6607  3580  2062  1313  1155  758  697  650  654  678  563  556  
+VERIFY_I/O__        10140 [us] [1 - 1]
+logD - 16 
+ceil loglogd - 4.000000 
+log(d) 16 d-65536 qbit : 2^13573
+KeyGen_Time_       188684 [us]
+KeyGen_I/O__          254 [us]
+makepoly - d: 65536
+Start precomputation
+commit- poly.d: 65536
+precom/precompute-65536.txt
+ 1.562%
+ 3.125%
+ 4.688%
+ 6.250%
+ 7.812%
+ 9.375%
+10.938%
+12.500%
+14.062%
+15.625%
+17.188%
+18.750%
+20.312%
+21.875%
+23.438%
+25.000%
+26.562%
+28.125%
+29.688%
+31.250%
+32.812%
+34.375%
+35.938%
+37.500%
+39.062%
+40.625%
+42.188%
+43.750%
+45.312%
+46.875%
+48.438%
+50.000%
+51.562%
+53.125%
+54.688%
+56.250%
+57.812%
+59.375%
+60.938%
+62.500%
+64.062%
+65.625%
+67.188%
+68.750%
+70.312%
+71.875%
+73.438%
+75.000%
+76.562%
+78.125%
+79.688%
+81.250%
+82.812%
+84.375%
+85.938%
+87.500%
+89.062%
+90.625%
+92.188%
+93.750%
+95.312%
+96.875%
+98.438%
+Commit__PRE_    779006098 [us]
+mu: 16 
+Commit_TIME_      2652387 [us]
+Commit_I/O__         8165 [us]
+Commit_TIME_new    775762070 [us]
+Start precomputation
+commit- poly.d: 65536
+precom/precompute-65536.txt
+ 1.562%
+ 3.125%
+ 4.688%
+ 6.250%
+ 7.812%
+ 9.375%
+10.938%
+12.500%
+14.062%
+15.625%
+17.188%
+18.750%
+20.312%
+21.875%
+23.438%
+25.000%
+26.562%
+28.125%
+29.688%
+31.250%
+32.812%
+34.375%
+35.938%
+37.500%
+39.062%
+40.625%
+42.188%
+43.750%
+45.312%
+46.875%
+48.438%
+50.000%
+51.562%
+53.125%
+54.688%
+56.250%
+57.812%
+59.375%
+60.938%
+62.500%
+64.062%
+65.625%
+67.188%
+68.750%
+70.312%
+71.875%
+73.438%
+75.000%
+76.562%
+78.125%
+79.688%
+81.250%
+82.812%
+84.375%
+85.938%
+87.500%
+89.062%
+90.625%
+92.188%
+93.750%
+95.312%
+96.875%
+98.438%
+Commit__PRE_    774056911 [us]
+Commit_TIME_      2673496 [us]
+Commit_I/O__        19708 [us]
+
+d_: 65536
+iter 1
+EVAL_PROVER0   2079547548 [us]
+EVAL_PROVER_CL     19873906 [us]
+EVAL_PROVER_CR     19875790 [us]
+EVAL_PROVER_POE   2039744501 [us]
+EVAL___I/O__        37814 [us] [  1]
+
+VERIFY_EVAL       234776 [us] [1]
+VERIFY_EVAL_FILEIO          281 [us] [1]
+VERIFY_EVAL_check g^f = c         4062 [us] [1]
+VERIFY_EVAL_update CL^a         4423 [us] [1]
+VERIFY_EVAL_POE       225535 [us] [1]
+VERIFY_EVAL_POE - remainder
+105318  52729  30486  13230   6635   4318   1648    828    415    230    145    136    122    100      6      4  subtotal: 216350
+VERIFY_EVAL_POE - pf^l
+  291    282    279    280    283    284    277    391    274    277    279    280    276    273    277    289  subtotal: 4592
+VERIFY_EVAL_POE - g^r
+  279    282    281    279    276    278    271    386    282    273    272    279    277    277    275    285  subtotal: 4552
+VERIFY_EVAL_POE - round total
+105891  53295  31050  13792  7196  4882  2198  1607  973  783  699  697  677  653  561  581  
+VERIFY_I/O__        19343 [us] [1 - 1]
